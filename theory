@@ -1,0 +1,11 @@
+The data set has COVID-19 fictional data from 3 planets: Tatooine, Naboo and Alderaan¶
+For each Planet there is information for: Daily Cases, Recoveries and Deaths in this order for 4 cities
+
+The dataset is created as lists below since file handling is not yet covered. Normally this sort of data is read into python from one or multiple files
+
+The objective of this excercise is to teach you slicing, aggregating, plotting data in a numpy array
+ Excited to share a fascinating exercise in data manipulation using Python! 🐍📊
+
+Imagine a world where COVID-19 affects not just our own, but also three distant planets: Tatooine, Naboo, and Alderaan. 🪐 The dataset at hand captures the daily cases, recoveries, and unfortunate deaths across four cities on each planet.
+
+Let's dive into the Python universe and showcase some powerful techniques for data analysis using numpy and matplotlib!
